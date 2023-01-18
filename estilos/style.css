@@ -61,7 +61,7 @@ section#redes-sociais img:hover{
     transition: transform 0.3s;
 }
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 768px){  /*RESPONSIVIDADE PARA TELAS MENORES USANDO @MEDIA */
     section#telefone{
         width: 100%;
     }
